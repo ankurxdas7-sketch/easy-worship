@@ -1,0 +1,7 @@
+# Do not edit manually
+
+*.htm linguist-vendored   
+*.ts linguist-detectable
+
+*.gif binary
+*.ico binary
